@@ -45,4 +45,6 @@ function sortearAmigo() {
     let resultadoHTML = document.querySelector("#resultado");
     resultadoHTML.innerHTML = amigos[indiceAmigo];
   }
+
 }
+
